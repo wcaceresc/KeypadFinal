@@ -21,5 +21,5 @@ es decir un ciclo antes que se presione el asterisco, de esta manera cuando este
 se tiene la condición de que mande a llamar dicha variable que tiene almacenado el valor de un ciclo anterior y de esta manera mostrara el ultimo boton apachado
 
 para su demostracion en este enlace se puede observar un video con su funcionamiento
-[
-](https://www.youtube.com/watch?v=vxPfNEILpgk)
+(https://www.youtube.com/watch?v=vxPfNEILpgk)
+.
