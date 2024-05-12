@@ -18,4 +18,8 @@ se encienda los led correspondientes en el display
 Para limpiar el diplay unicamente hacemos el caso y poniendo en 0xFF y en este caso ningun led se encendera.
 Dentro de las condicionales tenemos una variable en la que se guarda el valor anterior
 es decir un ciclo antes que se presione el asterisco, de esta manera cuando este sea presionado 
-se tiene la condición de que mande a llamar dicha variable que tiene almacenado el valor de un ciclo anterior y de esta manera mostrara el ultimo boton apachado![Captura de Pantalla 2024-05-12 a la(s) 14 25 38](https://github.com/wcaceresc/KeypadFinal/assets/161264041/ad8d170b-5f41-4adf-9f17-7d702a9eab39)
+se tiene la condición de que mande a llamar dicha variable que tiene almacenado el valor de un ciclo anterior y de esta manera mostrara el ultimo boton apachado
+
+para su demostracion en este enlace se puede observar un video con su funcionamiento
+[
+](https://www.youtube.com/watch?v=vxPfNEILpgk)
